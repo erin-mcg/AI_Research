@@ -1,5 +1,8 @@
 # AI_Research
 
+## Guidelines for collaboration
+1. These are some rules and guidelines
+
 ## Drafts
 Contains draft papers
 
@@ -22,3 +25,4 @@ Raw survey results and questionaire
 
 ## SubmittedPapers
 Archive of submitted past papers
+

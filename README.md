@@ -20,5 +20,5 @@ Processed survey results
 ### RawData
 Raw survey results and questionaire
 
-### SubmittedPapers
+## SubmittedPapers
 Archive of submitted past papers
